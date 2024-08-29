@@ -1,0 +1,23 @@
+.btn{
+    text-decoration: none;
+    border: 3px solid;
+    padding: 5px;
+    border-radius: 10px;
+    transition: all 200ms ease-in;
+    color: rgb(234, 234, 241);
+}
+
+.btn{
+    background-color: rgb(125, 125, 211);
+    color: aqua;
+    padding: 7px;
+}
+
+@font-face {
+    font-family: OleoScript;
+    src: url(OleoScript-Regular.ttf);
+}
+
+body{
+    font-family: OleoScript;
+}
